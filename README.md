@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Concert Stage Simulation Project
 
 ## Contents
